@@ -1,2 +1,4 @@
 [push]
 	followTags = true
+[alias]
+	goto = "!f() { git reset --hard && git clean -fd && git checkout $1; }; f"
