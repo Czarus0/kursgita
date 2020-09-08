@@ -1,1 +1,3 @@
-This is my brand new project versioned in Git, YAY !!!
+Kurs Gita
+----------
+Kurs nauki Gita prowadzony przez Macieja Aniserowicza.
